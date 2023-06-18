@@ -1,0 +1,117 @@
+custom-motd:
+  motd:
+    enabled: true
+    motds:
+    - |-
+      &e &e &e &e &e &e &e &e &e &e &e &e &e &e&lULTRAMC NETWORK &f[1.12 &8- &f1.19]
+      &e &e &e &e &e &e &e &e &e &e &e &e &eSurvival &e➽ &fMcMMO, Clans, Training!
+    - |-
+      &e &e &e &e &e &e &e &e &e &e &e &e &e &e&lULTRAMC NETWORK &f[1.12 &8- &f1.19]
+      &e &e &e &e &e &e &e &e &e &e &e &eEpic armor, Epic furnaces, zHorses!
+    - |-
+      &e &e &e &e &e &e &e &e &e &e &e &e &e &e&lULTRAMC NETWORK &f[1.12 &8- &f1.19]
+      &e &e &e &e &e &e &e &e &e &e &e &e &e &e &e &eDiscord &e➽ &fdc.ultramc.online!
+  sample:
+    enabled: true
+    samples:
+    - '&edc.ultramc.online!'
+  protocol:
+    enabled: false
+    name: FlameCord 1.7-1.18
+    always-show: false
+  maxplayers:
+    enabled: true
+    amount: 200
+    justonemore: false
+  fakeplayers:
+    enabled: false
+    amount: 100
+    mode: DIVISION
+allow-invalid-names: true
+antibot:
+  accounts:
+    enabled: false
+    firewall: true
+    limit: 3
+    log: true
+    whitelist:
+    - Nickname
+  country:
+    enabled: true
+    firewall: true
+    blacklist:
+    - CN
+    - HK
+    - RU
+    - IN
+    - TH
+    - ID
+    - DZ
+    - VN
+    - IR
+    - PK
+    log: true
+  fastchat:
+    enabled: true
+    firewall: true
+    time: 1000
+    log: true
+  firewall:
+    enabled: true
+    ipset: true
+    time: 60
+    log: true
+    exceptions:
+    - BadPacketException
+    - QuietException
+    - IllegalStateConfig
+    - FastException
+    whitelist:
+    - 127.0.0.1
+  nickname:
+    enabled: true
+    firewall: true
+    blacklist:
+    - mcstorm
+    - mcdown
+    - mcbot
+    - theresa_bot
+    - dropbot
+    - kingbot
+    log: true
+  password:
+    enabled: true
+    firewall: true
+    limit: 3
+    log: true
+  ratelimit:
+    enabled: true
+    firewall: true
+    connections-per-second: 10
+    pings-per-second: 15
+    log: true
+    whitelist:
+    - 127.0.0.1
+  reconnect:
+    enabled: true
+    attempts: 1
+    pings: 1
+    max-time: 10000
+    connection-threshold: 1
+    connection-threshold-limit: 8000
+    log: true
+  packets:
+    enabled: true
+    log: true
+    debug: false
+    vls-per-byte: 0.0017
+    vls-per-packet: 0.1
+    vls-to-kick: 100.0
+tcp-fast-open: 3
+logger:
+  initialhandler: true
+  exceptions: true
+  dump: false
+  haproxy: true
+  detailed-connect-errors: true
+compression-level: 6

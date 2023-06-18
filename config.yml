@@ -1,0 +1,55 @@
+enforce_secure_profile: false
+listeners:
+- query_port: 25565
+  motd: asd
+  tab_list: GLOBAL_PING
+  query_enabled: false
+  proxy_protocol: true
+  forced_hosts:
+    pvp.md-5.net: pvp
+  ping_passthrough: false
+  priorities:
+  - lobby
+  bind_local_address: true
+  host: 0.0.0.0:25565
+  max_players: 200
+  tab_size: 60
+  force_default_server: false
+remote_ping_cache: -1
+network_compression_threshold: 256
+permissions:
+  default:
+  - bungeecord.command.list
+  admin:
+  - bungeecord.command.alert
+  - bungeecord.command.end
+  - bungeecord.command.ip
+  - bungeecord.command.reload
+  - bungeecord.command.server
+log_pings: true
+connection_throttle_limit: 3
+server_connect_timeout: 5000
+timeout: 30000
+stats: 3648075a-c754-40a3-b479-1ed33cea8e92
+player_limit: -1
+ip_forward: true
+groups:
+  md_5:
+  - admin
+remote_ping_timeout: -1
+connection_throttle: -1
+log_commands: false
+prevent_proxy_connections: false
+online_mode: false
+forge_support: true
+disabled_commands:
+- disabledcommandhere
+servers:
+  lobby:
+    motd: lobby
+    address: localhost:25566
+    restricted: false
+  survival:
+    motd: survival
+    address: localhost:25568
+    restricted: false

@@ -1,0 +1,26 @@
+version: 2
+modules:
+- jenkins://cmd_alert
+- jenkins://cmd_find
+- jenkins://cmd_list
+- jenkins://cmd_send
+- jenkins://cmd_server
+- jenkins://reconnect_yaml
+alert:
+  enabled: true
+find:
+  enabled: true
+ip:
+  enabled: true
+list:
+  enabled: true
+perms:
+  enabled: true
+reload:
+  enabled: true
+send:
+  enabled: true
+server:
+  enabled: true
+reconnect:
+  enabled: true

@@ -1,0 +1,5 @@
+enabled: true
+strings_to_send:
+  '0': '2'
+  '1': '3'
+delay: 1

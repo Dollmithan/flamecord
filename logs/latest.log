@@ -1,0 +1,585 @@
+[00:05:15] [Netty Worker IO Thread #6/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[00:06:12] [Netty Worker IO Thread #7/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[00:08:11] [Netty Worker IO Thread #0/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[00:08:16] [Netty Worker IO Thread #1/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[00:08:32] [Netty Worker IO Thread #2/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[00:10:17] [Netty Worker IO Thread #3/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[00:10:40] [SkinsRestorer Pool Thread #200/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+[00:10:40] [SkinsRestorer Pool Thread #200/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m
+[00:10:40] [SkinsRestorer Pool Thread #200/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |   SkinsRestorer  |[0;39m
+[00:10:40] [SkinsRestorer Pool Thread #200/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m
+[00:10:40] [SkinsRestorer Pool Thread #200/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+[00:10:40] [SkinsRestorer Pool Thread #200/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Current version: [31;1m14.2.10[0;39m
+[00:10:40] [SkinsRestorer Pool Thread #200/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    New version: [31;1m14.2.12[0;39m
+[00:10:40] [SkinsRestorer Pool Thread #200/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1m    A new version is available! Download it at:[0;39m
+[00:10:40] [SkinsRestorer Pool Thread #200/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1m    https://github.com/SkinsRestorer/SkinsRestorerX/releases/download/14.2.12/SkinsRestorer.jar[0;39m
+[00:10:40] [SkinsRestorer Pool Thread #200/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+[00:10:57] [Netty Worker IO Thread #4/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[00:12:20] [Netty Worker IO Thread #5/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[00:12:24] [Netty Worker IO Thread #6/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[00:14:30] [Netty Worker IO Thread #7/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[00:16:34] [Netty Worker IO Thread #0/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[00:21:19] [Netty Worker IO Thread #1/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[00:23:10] [Netty Worker IO Thread #2/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[01:40:11] [Netty Worker IO Thread #3/WARN]: [/51.158.167.216:61000] <-> InitialHandler - read timed out
+[02:29:40] [SkinsRestorer Pool Thread #201/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+[02:29:40] [SkinsRestorer Pool Thread #201/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m
+[02:29:40] [SkinsRestorer Pool Thread #201/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |   SkinsRestorer  |[0;39m
+[02:29:40] [SkinsRestorer Pool Thread #201/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m
+[02:29:40] [SkinsRestorer Pool Thread #201/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+[02:29:40] [SkinsRestorer Pool Thread #201/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Current version: [31;1m14.2.10[0;39m
+[02:29:40] [SkinsRestorer Pool Thread #201/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    New version: [31;1m14.2.12[0;39m
+[02:29:40] [SkinsRestorer Pool Thread #201/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1m    A new version is available! Download it at:[0;39m
+[02:29:40] [SkinsRestorer Pool Thread #201/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1m    https://github.com/SkinsRestorer/SkinsRestorerX/releases/download/14.2.12/SkinsRestorer.jar[0;39m
+[02:29:40] [SkinsRestorer Pool Thread #201/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+[04:48:40] [SkinsRestorer Pool Thread #202/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+[04:48:40] [SkinsRestorer Pool Thread #202/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m
+[04:48:40] [SkinsRestorer Pool Thread #202/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |   SkinsRestorer  |[0;39m
+[04:48:40] [SkinsRestorer Pool Thread #202/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m
+[04:48:40] [SkinsRestorer Pool Thread #202/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+[04:48:40] [SkinsRestorer Pool Thread #202/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Current version: [31;1m14.2.10[0;39m
+[04:48:40] [SkinsRestorer Pool Thread #202/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    New version: [31;1m14.2.12[0;39m
+[04:48:40] [SkinsRestorer Pool Thread #202/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1m    A new version is available! Download it at:[0;39m
+[04:48:40] [SkinsRestorer Pool Thread #202/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1m    https://github.com/SkinsRestorer/SkinsRestorerX/releases/download/14.2.12/SkinsRestorer.jar[0;39m
+[04:48:40] [SkinsRestorer Pool Thread #202/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+[05:18:25] [Netty Worker IO Thread #7/WARN]: [/192.155.88.231:38230] <-> InitialHandler - NativeIoException: recvAddress(..) failed: Connection reset by peer
+[05:19:03] [Netty Worker IO Thread #2/WARN]: [/192.155.88.231:38233] <-> InitialHandler - NativeIoException: recvAddress(..) failed: Connection reset by peer
+[05:19:25] [Netty Worker IO Thread #3/WARN]: [/192.155.88.231:38234] <-> InitialHandler - NativeIoException: recvAddress(..) failed: Connection reset by peer
+[05:19:48] [Netty Worker IO Thread #4/WARN]: [/192.155.88.231:38235] <-> InitialHandler - NativeIoException: recvAddress(..) failed: Connection reset by peer
+[05:20:11] [Netty Worker IO Thread #5/WARN]: [/192.155.88.231:38236] <-> InitialHandler - NativeIoException: recvAddress(..) failed: Connection reset by peer
+[05:20:33] [Netty Worker IO Thread #6/WARN]: [/192.155.88.231:38237] <-> InitialHandler - NativeIoException: recvAddress(..) failed: Connection reset by peer
+[05:21:07] [Netty Worker IO Thread #0/WARN]: [/192.155.88.231:38239] <-> InitialHandler - read timed out
+[05:21:16] [Netty Worker IO Thread #1/WARN]: [/192.155.88.231:38240] <-> InitialHandler - NativeIoException: recvAddress(..) failed: Connection reset by peer
+[05:21:51] [Netty Worker IO Thread #5/WARN]: [/192.155.88.231:38244] <-> InitialHandler - read timed out
+[05:21:54] [Netty Worker IO Thread #7/WARN]: [/192.155.88.231:38243] <-> InitialHandler - read timed out
+[05:21:55] [Netty Worker IO Thread #0/WARN]: [/192.155.88.231:38242] <-> InitialHandler - read timed out
+[05:36:59] [Netty Worker IO Thread #1/WARN]: [/51.15.34.47:61000] <-> InitialHandler - read timed out
+[07:07:40] [SkinsRestorer Pool Thread #203/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+[07:07:40] [SkinsRestorer Pool Thread #203/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m
+[07:07:40] [SkinsRestorer Pool Thread #203/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |   SkinsRestorer  |[0;39m
+[07:07:40] [SkinsRestorer Pool Thread #203/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m
+[07:07:40] [SkinsRestorer Pool Thread #203/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+[07:07:40] [SkinsRestorer Pool Thread #203/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Current version: [31;1m14.2.10[0;39m
+[07:07:40] [SkinsRestorer Pool Thread #203/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    New version: [31;1m14.2.12[0;39m
+[07:07:40] [SkinsRestorer Pool Thread #203/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1m    A new version is available! Download it at:[0;39m
+[07:07:40] [SkinsRestorer Pool Thread #203/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1m    https://github.com/SkinsRestorer/SkinsRestorerX/releases/download/14.2.12/SkinsRestorer.jar[0;39m
+[07:07:40] [SkinsRestorer Pool Thread #203/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+[07:33:11] [Netty Worker IO Thread #5/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[07:52:12] [Netty Worker IO Thread #6/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[07:53:37] [Netty Worker IO Thread #7/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[07:56:11] [Netty Worker IO Thread #0/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[07:58:00] [Netty Worker IO Thread #1/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[07:59:58] [Netty Worker IO Thread #2/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[08:01:42] [Netty Worker IO Thread #3/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[08:02:11] [Netty Worker IO Thread #4/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[08:02:45] [Netty Worker IO Thread #5/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[08:03:15] [Netty Worker IO Thread #6/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[08:03:57] [Netty Worker IO Thread #7/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[08:04:23] [Netty Worker IO Thread #0/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[08:04:49] [Netty Worker IO Thread #1/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[08:05:13] [Netty Worker IO Thread #2/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[08:05:39] [Netty Worker IO Thread #3/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[08:09:58] [Netty Worker IO Thread #4/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[08:11:04] [Netty Worker IO Thread #5/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[08:25:18] [Netty Worker IO Thread #6/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[08:28:35] [Netty Worker IO Thread #7/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[08:28:39] [Netty Worker IO Thread #0/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[08:33:25] [Netty Worker IO Thread #1/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[08:34:50] [Netty Worker IO Thread #2/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[08:39:53] [Netty Worker IO Thread #3/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[08:40:36] [Netty Worker IO Thread #4/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[09:00:49] [Netty Worker IO Thread #5/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[09:03:51] [Netty Worker IO Thread #6/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[09:09:50] [Netty Worker IO Thread #7/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[09:13:54] [Netty Worker IO Thread #0/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[09:14:54] [Netty Worker IO Thread #1/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[09:18:53] [Netty Worker IO Thread #2/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[09:22:36] [Netty Worker IO Thread #3/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[09:23:05] [Netty Worker IO Thread #4/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[09:23:30] [Netty Worker IO Thread #5/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[09:26:40] [SkinsRestorer Pool Thread #204/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+[09:26:40] [SkinsRestorer Pool Thread #204/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m
+[09:26:40] [SkinsRestorer Pool Thread #204/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |   SkinsRestorer  |[0;39m
+[09:26:40] [SkinsRestorer Pool Thread #204/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m
+[09:26:40] [SkinsRestorer Pool Thread #204/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+[09:26:40] [SkinsRestorer Pool Thread #204/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Current version: [31;1m14.2.10[0;39m
+[09:26:40] [SkinsRestorer Pool Thread #204/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    New version: [31;1m14.2.12[0;39m
+[09:26:40] [SkinsRestorer Pool Thread #204/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1m    A new version is available! Download it at:[0;39m
+[09:26:40] [SkinsRestorer Pool Thread #204/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1m    https://github.com/SkinsRestorer/SkinsRestorerX/releases/download/14.2.12/SkinsRestorer.jar[0;39m
+[09:26:40] [SkinsRestorer Pool Thread #204/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+[09:34:49] [Netty Worker IO Thread #6/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[09:55:01] [Netty Worker IO Thread #7/WARN]: [/51.158.167.151:61000] <-> InitialHandler - read timed out
+[10:07:04] [Netty Worker IO Thread #0/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[10:08:07] [Netty Worker IO Thread #1/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[10:10:30] [Netty Worker IO Thread #2/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[10:11:52] [Netty Worker IO Thread #3/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[10:15:05] [Netty Worker IO Thread #4/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[10:16:10] [Netty Worker IO Thread #5/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[10:23:35] [Netty Worker IO Thread #6/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[10:23:36] [Netty Worker IO Thread #7/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[10:23:46] [Netty Worker IO Thread #0/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[10:24:59] [Netty Worker IO Thread #1/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[10:31:17] [Netty Worker IO Thread #2/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[10:33:06] [Netty Worker IO Thread #3/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[10:33:28] [Netty Worker IO Thread #4/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[10:33:45] [Netty Worker IO Thread #5/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[10:39:51] [Netty Worker IO Thread #6/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[10:39:52] [Netty Worker IO Thread #7/INFO]: [/94.43.190.178:51424] <-> InitialHandler has connected
+[10:39:53] [Netty Worker IO Thread #7/INFO]: [dito|/94.43.190.178:51424] <-> ServerConnector [lobby] has connected
+[10:39:56] [UltraStaffChat Pool Thread #60/INFO]: [+] [lobby] dito
+[10:40:05] [Netty Worker IO Thread #7/INFO]: [dito|/94.43.190.178:51424] <-> ServerConnector [survival] has connected
+[10:40:06] [Netty Worker IO Thread #7/INFO]: [StaffChat] dito switched from lobby to survival
+[10:40:06] [Netty Worker IO Thread #7/INFO]: [/94.43.190.178:51424|dito] <-> DownstreamBridge <-> [lobby] has disconnected
+[10:40:53] [Netty Worker IO Thread #7/INFO]: [-] dito
+[10:40:53] [Netty Worker IO Thread #7/INFO]: [/94.43.190.178:51424|dito] -> UpstreamBridge has disconnected
+[10:40:53] [Netty Worker IO Thread #7/INFO]: [/94.43.190.178:51424|dito] <-> DownstreamBridge <-> [survival] has disconnected
+[10:40:53] [Netty Worker IO Thread #0/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[10:42:08] [Netty Worker IO Thread #1/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[10:42:09] [Netty Worker IO Thread #2/INFO]: [/94.43.190.178:51525] <-> InitialHandler has connected
+[10:42:09] [Netty Worker IO Thread #2/INFO]: [dito|/94.43.190.178:51525] <-> ServerConnector [lobby] has connected
+[10:42:11] [Netty Worker IO Thread #2/INFO]: [dito|/94.43.190.178:51525] <-> ServerConnector [survival] has connected
+[10:42:11] [Netty Worker IO Thread #2/INFO]: [StaffChat] dito switched from lobby to survival
+[10:42:11] [Netty Worker IO Thread #2/INFO]: [/94.43.190.178:51525|dito] <-> DownstreamBridge <-> [lobby] has disconnected
+[10:42:12] [UltraStaffChat Pool Thread #61/INFO]: [+] [survival] dito
+[10:42:24] [Netty Worker IO Thread #2/INFO]: [-] dito
+[10:42:24] [Netty Worker IO Thread #2/INFO]: [/94.43.190.178:51525|dito] -> UpstreamBridge has disconnected
+[10:42:24] [Netty Worker IO Thread #2/INFO]: [/94.43.190.178:51525|dito] <-> DownstreamBridge <-> [survival] has disconnected
+[10:42:24] [Netty Worker IO Thread #3/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[10:47:03] [Netty Worker IO Thread #4/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[11:03:33] [Netty Worker IO Thread #5/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[11:09:22] [Netty Worker IO Thread #6/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[11:13:19] [Netty Worker IO Thread #7/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[11:21:12] [Netty Worker IO Thread #0/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[11:21:18] [Netty Worker IO Thread #1/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[11:22:47] [Netty Worker IO Thread #2/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[11:23:24] [Netty Worker IO Thread #3/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[11:24:12] [Netty Worker IO Thread #4/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[11:24:32] [Netty Worker IO Thread #5/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[11:24:33] [Netty Worker IO Thread #6/INFO]: [/94.43.190.178:53967] <-> InitialHandler has connected
+[11:24:35] [Netty Worker IO Thread #6/INFO]: [dito|/94.43.190.178:53967] <-> ServerConnector [lobby] has connected
+[11:24:35] [Netty Worker IO Thread #7/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[11:24:38] [UltraStaffChat Pool Thread #62/INFO]: [+] [lobby] dito
+[11:24:38] [Netty Worker IO Thread #6/INFO]: [dito|/94.43.190.178:53967] <-> ServerConnector [survival] has connected
+[11:24:38] [Netty Worker IO Thread #6/INFO]: [StaffChat] dito switched from lobby to survival
+[11:24:38] [Netty Worker IO Thread #6/INFO]: [/94.43.190.178:53967|dito] <-> DownstreamBridge <-> [lobby] has disconnected
+[11:26:05] [Netty Worker IO Thread #0/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[11:26:52] [Netty Worker IO Thread #1/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[11:30:20] [Netty Worker IO Thread #6/INFO]: [-] dito
+[11:30:20] [Netty Worker IO Thread #6/INFO]: [/94.43.190.178:53967|dito] -> UpstreamBridge has disconnected
+[11:30:20] [Netty Worker IO Thread #6/INFO]: [/94.43.190.178:53967|dito] <-> DownstreamBridge <-> [survival] has disconnected
+[11:30:20] [Netty Worker IO Thread #2/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[11:30:22] [Netty Worker IO Thread #3/INFO]: [/94.43.190.178:54277] <-> InitialHandler has connected
+[11:30:22] [LuckPerms Pool Thread #211/WARN] [LuckPerms]: LuckPerms already has data for player 'dollmithan' - but this data is stored under a different UUID.
+[11:30:22] [LuckPerms Pool Thread #211/WARN] [LuckPerms]: 'dollmithan' has previously used the unique ids [d6b09f62-e16e-34a8-8474-094956bf7af5] but is now connecting with '2174c987-6bef-38aa-a6c5-6ea37822f297'
+[11:30:22] [LuckPerms Pool Thread #211/WARN] [LuckPerms]: The UUID the player is connecting with now is NOT Mojang-assigned (type 3). This implies that THIS server is not authenticating correctly, but one (or more) of the other servers/proxies in the network are.
+[11:30:22] [LuckPerms Pool Thread #211/WARN] [LuckPerms]: If you're using BungeeCord/Velocity, please ensure that IP-Forwarding is setup correctly on all of your backend servers!
+[11:30:22] [LuckPerms Pool Thread #211/WARN] [LuckPerms]: See here for more info: https://luckperms.net/wiki/Network-Installation#pre-setup
+[11:30:23] [Netty Worker IO Thread #3/INFO]: [dollmithan|/94.43.190.178:54277] <-> ServerConnector [lobby] has connected
+[11:30:28] [Netty Worker IO Thread #3/INFO]: [dollmithan] disconnected with: Wrong password!
+[11:30:28] [Netty Worker IO Thread #3/INFO]: [/94.43.190.178:54277|dollmithan] -> UpstreamBridge has disconnected
+[11:30:28] [Netty Worker IO Thread #3/INFO]: [/94.43.190.178:54277|dollmithan] <-> DownstreamBridge <-> [lobby] has disconnected
+[11:30:30] [Netty Worker IO Thread #4/INFO]: [/94.43.190.178:54290] <-> InitialHandler has connected
+[11:30:30] [Netty Worker IO Thread #4/INFO]: [dollmithan|/94.43.190.178:54290] <-> ServerConnector [lobby] has connected
+[11:30:37] [Netty Worker IO Thread #4/INFO]: [/94.43.190.178:54290|dollmithan] -> UpstreamBridge has disconnected
+[11:30:37] [Netty Worker IO Thread #4/INFO]: [/94.43.190.178:54290|dollmithan] <-> DownstreamBridge <-> [lobby] has disconnected
+[11:31:36] [Netty Worker IO Thread #5/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[11:31:37] [Netty Worker IO Thread #6/INFO]: [/94.43.190.178:54348] <-> InitialHandler has connected
+[11:31:37] [Netty Worker IO Thread #6/INFO]: [dito|/94.43.190.178:54348] <-> ServerConnector [lobby] has connected
+[11:31:40] [UltraStaffChat Pool Thread #63/INFO]: [+] [lobby] dito
+[11:31:48] [Netty Worker IO Thread #6/INFO]: [-] dito
+[11:31:48] [Netty Worker IO Thread #6/INFO]: [/94.43.190.178:54348|dito] -> UpstreamBridge has disconnected
+[11:31:48] [Netty Worker IO Thread #6/INFO]: [/94.43.190.178:54348|dito] <-> DownstreamBridge <-> [lobby] has disconnected
+[11:31:48] [Netty Worker IO Thread #7/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[11:31:50] [Netty Worker IO Thread #0/INFO]: [/94.43.190.178:54378] <-> InitialHandler has connected
+[11:31:50] [Netty Worker IO Thread #0/INFO]: [dollmithan|/94.43.190.178:54378] <-> ServerConnector [lobby] has connected
+[11:32:16] [Netty Worker IO Thread #0/INFO]: [dollmithan] disconnected with: Please log in again.
+[11:32:16] [Netty Worker IO Thread #0/INFO]: [/94.43.190.178:54378|dollmithan] -> UpstreamBridge has disconnected
+[11:32:16] [Netty Worker IO Thread #0/INFO]: [/94.43.190.178:54378|dollmithan] <-> DownstreamBridge <-> [lobby] has disconnected
+[11:32:17] [Netty Worker IO Thread #1/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[11:32:19] [Netty Worker IO Thread #2/INFO]: [/94.43.190.178:54402] <-> InitialHandler has connected
+[11:32:19] [Netty Worker IO Thread #2/INFO]: [dollmithan|/94.43.190.178:54402] <-> ServerConnector [lobby] has connected
+[11:32:27] [Netty Worker IO Thread #2/INFO]: [dollmithan|/94.43.190.178:54402] <-> ServerConnector [survival] has connected
+[11:32:27] [Netty Worker IO Thread #2/INFO]: [/94.43.190.178:54402|dollmithan] <-> DownstreamBridge <-> [lobby] has disconnected
+[11:32:35] [Netty Worker IO Thread #2/INFO]: [FlameCord] [/51.89.34.168:12582] was cancelled because of too many packets (Total: 25.006vls Size: 2.106vls Rate: 22.9vls)
+[11:32:45] [Netty Worker IO Thread #3/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[11:33:28] [Netty Worker IO Thread #2/INFO]: [FlameCord] [/51.89.34.168:12582] was cancelled because of too many packets (Total: 25.077vls Size: 3.777vls Rate: 21.3vls)
+[11:33:46] [Netty Worker IO Thread #2/INFO]: [/94.43.190.178:54402|dollmithan] -> UpstreamBridge has disconnected
+[11:33:46] [Netty Worker IO Thread #2/INFO]: [/94.43.190.178:54402|dollmithan] <-> DownstreamBridge <-> [survival] has disconnected
+[11:33:47] [Netty Worker IO Thread #4/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[11:36:29] [Netty Worker IO Thread #5/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[11:36:30] [Netty Worker IO Thread #6/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[11:40:08] [Netty Worker IO Thread #7/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[11:45:40] [SkinsRestorer Pool Thread #215/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+[11:45:40] [SkinsRestorer Pool Thread #215/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m
+[11:45:40] [SkinsRestorer Pool Thread #215/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |   SkinsRestorer  |[0;39m
+[11:45:40] [SkinsRestorer Pool Thread #215/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m
+[11:45:40] [SkinsRestorer Pool Thread #215/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+[11:45:40] [SkinsRestorer Pool Thread #215/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Current version: [31;1m14.2.10[0;39m
+[11:45:40] [SkinsRestorer Pool Thread #215/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    New version: [31;1m14.2.12[0;39m
+[11:45:40] [SkinsRestorer Pool Thread #215/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1m    A new version is available! Download it at:[0;39m
+[11:45:40] [SkinsRestorer Pool Thread #215/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1m    https://github.com/SkinsRestorer/SkinsRestorerX/releases/download/14.2.12/SkinsRestorer.jar[0;39m
+[11:45:40] [SkinsRestorer Pool Thread #215/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+[11:48:21] [Netty Worker IO Thread #0/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[11:52:12] [Netty Worker IO Thread #2/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[11:52:38] [Netty Worker IO Thread #3/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[12:07:16] [Netty Worker IO Thread #4/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[12:12:45] [Netty Worker IO Thread #5/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[12:16:05] [Netty Worker IO Thread #6/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[12:16:25] [Netty Worker IO Thread #7/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[12:17:52] [Netty Worker IO Thread #0/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[12:18:18] [Netty Worker IO Thread #1/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[12:18:57] [Netty Worker IO Thread #2/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[12:19:03] [Netty Worker IO Thread #3/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[12:19:16] [Netty Worker IO Thread #4/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[12:19:20] [Netty Worker IO Thread #5/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[12:19:36] [Netty Worker IO Thread #6/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[12:19:47] [Netty Worker IO Thread #7/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[12:20:05] [Netty Worker IO Thread #0/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[12:25:04] [Netty Worker IO Thread #1/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[12:27:24] [Netty Worker IO Thread #2/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[12:27:28] [Netty Worker IO Thread #3/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[12:31:41] [Netty Worker IO Thread #4/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[12:31:47] [Netty Worker IO Thread #5/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[12:31:51] [Netty Worker IO Thread #6/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[12:31:59] [Netty Worker IO Thread #7/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[12:32:50] [Netty Worker IO Thread #0/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[12:32:56] [Netty Worker IO Thread #1/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[12:33:14] [Netty Worker IO Thread #2/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[12:45:02] [Netty Worker IO Thread #4/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[12:45:05] [Netty Worker IO Thread #5/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[12:46:16] [Netty Worker IO Thread #6/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[12:49:53] [Netty Worker IO Thread #7/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[13:00:21] [Netty Worker IO Thread #0/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[13:03:55] [Netty Worker IO Thread #1/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[13:08:15] [Netty Worker IO Thread #2/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[13:11:25] [Netty Worker IO Thread #3/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[13:12:57] [Netty Worker IO Thread #4/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[13:12:59] [Netty Worker IO Thread #5/INFO]: [/94.43.190.178:60187] <-> InitialHandler has connected
+[13:13:00] [Netty Worker IO Thread #5/INFO]: [dito|/94.43.190.178:60187] <-> ServerConnector [lobby] has connected
+[13:13:03] [UltraStaffChat Pool Thread #64/INFO]: [+] [lobby] dito
+[13:13:08] [Netty Worker IO Thread #5/INFO]: [dito|/94.43.190.178:60187] <-> ServerConnector [survival] has connected
+[13:13:08] [Netty Worker IO Thread #5/INFO]: [StaffChat] dito switched from lobby to survival
+[13:13:08] [Netty Worker IO Thread #5/INFO]: [/94.43.190.178:60187|dito] <-> DownstreamBridge <-> [lobby] has disconnected
+[13:13:46] [Netty Worker IO Thread #5/INFO]: [-] dito
+[13:13:46] [Netty Worker IO Thread #5/INFO]: [/94.43.190.178:60187|dito] -> UpstreamBridge has disconnected
+[13:13:46] [Netty Worker IO Thread #5/INFO]: [/94.43.190.178:60187|dito] <-> DownstreamBridge <-> [survival] has disconnected
+[13:13:48] [Netty Worker IO Thread #6/INFO]: [/94.43.190.178:60201] <-> InitialHandler has connected
+[13:13:48] [Netty Worker IO Thread #6/INFO]: [dito|/94.43.190.178:60201] <-> ServerConnector [lobby] has connected
+[13:13:50] [Netty Worker IO Thread #6/INFO]: [dito|/94.43.190.178:60201] <-> ServerConnector [survival] has connected
+[13:13:50] [Netty Worker IO Thread #6/INFO]: [StaffChat] dito switched from lobby to survival
+[13:13:50] [Netty Worker IO Thread #6/INFO]: [/94.43.190.178:60201|dito] <-> DownstreamBridge <-> [lobby] has disconnected
+[13:13:51] [UltraStaffChat Pool Thread #64/INFO]: [+] [survival] dito
+[13:15:02] [Netty Worker IO Thread #6/INFO]: [-] dito
+[13:15:02] [Netty Worker IO Thread #6/INFO]: [/94.43.190.178:60201|dito] -> UpstreamBridge has disconnected
+[13:15:02] [Netty Worker IO Thread #6/INFO]: [/94.43.190.178:60201|dito] <-> DownstreamBridge <-> [survival] has disconnected
+[13:17:00] [Netty Worker IO Thread #7/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[13:20:43] [Netty Worker IO Thread #0/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[13:22:47] [Netty Worker IO Thread #1/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[13:22:48] [Netty Worker IO Thread #2/INFO]: [/94.43.190.178:60636] <-> InitialHandler has connected
+[13:22:48] [Netty Worker IO Thread #2/INFO]: [dito|/94.43.190.178:60636] <-> ServerConnector [lobby] has connected
+[13:22:51] [UltraStaffChat Pool Thread #65/INFO]: [+] [lobby] dito
+[13:22:53] [Netty Worker IO Thread #2/INFO]: [dito|/94.43.190.178:60636] <-> ServerConnector [survival] has connected
+[13:22:53] [Netty Worker IO Thread #2/INFO]: [StaffChat] dito switched from lobby to survival
+[13:22:53] [Netty Worker IO Thread #2/INFO]: [/94.43.190.178:60636|dito] <-> DownstreamBridge <-> [lobby] has disconnected
+[13:23:15] [Netty Worker IO Thread #2/INFO]: [-] dito
+[13:23:15] [Netty Worker IO Thread #2/INFO]: [/94.43.190.178:60636|dito] -> UpstreamBridge has disconnected
+[13:23:15] [Netty Worker IO Thread #2/INFO]: [/94.43.190.178:60636|dito] <-> DownstreamBridge <-> [survival] has disconnected
+[13:23:24] [Netty Worker IO Thread #3/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[13:23:37] [Netty Worker IO Thread #4/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[13:27:39] [Netty Worker IO Thread #5/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[13:27:40] [Netty Worker IO Thread #6/INFO]: [/94.43.190.178:60878] <-> InitialHandler has connected
+[13:27:40] [Netty Worker IO Thread #6/INFO]: [dito|/94.43.190.178:60878] <-> ServerConnector [lobby] has connected
+[13:27:43] [UltraStaffChat Pool Thread #66/INFO]: [+] [lobby] dito
+[13:27:47] [Netty Worker IO Thread #6/INFO]: [dito|/94.43.190.178:60878] <-> ServerConnector [survival] has connected
+[13:27:47] [Netty Worker IO Thread #6/INFO]: [StaffChat] dito switched from lobby to survival
+[13:27:47] [Netty Worker IO Thread #6/INFO]: [/94.43.190.178:60878|dito] <-> DownstreamBridge <-> [lobby] has disconnected
+[13:29:01] [Netty Worker IO Thread #7/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[13:29:09] [Netty Worker IO Thread #6/INFO]: [-] dito
+[13:29:09] [Netty Worker IO Thread #6/INFO]: [/94.43.190.178:60878|dito] -> UpstreamBridge has disconnected
+[13:29:09] [Netty Worker IO Thread #6/INFO]: [/94.43.190.178:60878|dito] <-> DownstreamBridge <-> [survival] has disconnected
+[13:44:37] [Netty Worker IO Thread #0/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[13:47:55] [Netty Worker IO Thread #1/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[14:03:52] [Netty Worker IO Thread #2/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[14:04:40] [SkinsRestorer Pool Thread #222/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+[14:04:40] [SkinsRestorer Pool Thread #222/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m
+[14:04:40] [SkinsRestorer Pool Thread #222/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |   SkinsRestorer  |[0;39m
+[14:04:40] [SkinsRestorer Pool Thread #222/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m
+[14:04:40] [SkinsRestorer Pool Thread #222/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+[14:04:40] [SkinsRestorer Pool Thread #222/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Current version: [31;1m14.2.10[0;39m
+[14:04:40] [SkinsRestorer Pool Thread #222/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    New version: [31;1m14.2.12[0;39m
+[14:04:40] [SkinsRestorer Pool Thread #222/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1m    A new version is available! Download it at:[0;39m
+[14:04:40] [SkinsRestorer Pool Thread #222/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1m    https://github.com/SkinsRestorer/SkinsRestorerX/releases/download/14.2.12/SkinsRestorer.jar[0;39m
+[14:04:40] [SkinsRestorer Pool Thread #222/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+[14:05:30] [Netty Worker IO Thread #3/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[14:05:31] [Netty Worker IO Thread #4/INFO]: [/94.43.190.178:49346] <-> InitialHandler has connected
+[14:05:32] [Netty Worker IO Thread #4/INFO]: [dito|/94.43.190.178:49346] <-> ServerConnector [lobby] has connected
+[14:05:35] [UltraStaffChat Pool Thread #67/INFO]: [+] [lobby] dito
+[14:05:36] [Netty Worker IO Thread #4/INFO]: [dito|/94.43.190.178:49346] <-> ServerConnector [survival] has connected
+[14:05:36] [Netty Worker IO Thread #4/INFO]: [StaffChat] dito switched from lobby to survival
+[14:05:36] [Netty Worker IO Thread #4/INFO]: [/94.43.190.178:49346|dito] <-> DownstreamBridge <-> [lobby] has disconnected
+[14:05:40] [Netty Worker IO Thread #4/INFO]: [StaffChat] dito: sssss
+[14:06:01] [Netty Worker IO Thread #5/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[14:06:04] [Netty Worker IO Thread #6/INFO]: [/95.104.29.101:49981] <-> InitialHandler has connected
+[14:06:05] [Netty Worker IO Thread #6/INFO]: [Elion|/95.104.29.101:49981] <-> ServerConnector [lobby] has connected
+[14:06:08] [UltraStaffChat Pool Thread #67/INFO]: [+] [lobby] Elion
+[14:06:12] [Netty Worker IO Thread #6/INFO]: [Elion|/95.104.29.101:49981] <-> ServerConnector [survival] has connected
+[14:06:12] [Netty Worker IO Thread #6/INFO]: [StaffChat] Elion switched from lobby to survival
+[14:06:12] [Netty Worker IO Thread #6/INFO]: [/95.104.29.101:49981|Elion] <-> DownstreamBridge <-> [lobby] has disconnected
+[14:20:45] [Netty Worker IO Thread #7/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[14:20:53] [Netty Worker IO Thread #6/INFO]: [Elion|/95.104.29.101:49981] <-> ServerConnector [lobby] has connected
+[14:20:53] [Netty Worker IO Thread #4/INFO]: [dito|/94.43.190.178:49346] <-> ServerConnector [lobby] has connected
+[14:20:54] [Netty Worker IO Thread #6/INFO]: [StaffChat] Elion switched from survival to lobby
+[14:20:54] [Netty Worker IO Thread #6/INFO]: [/95.104.29.101:49981|Elion] <-> DownstreamBridge <-> [survival] has disconnected
+[14:20:54] [Netty Worker IO Thread #4/INFO]: [StaffChat] dito switched from survival to lobby
+[14:20:54] [Netty Worker IO Thread #4/INFO]: [/94.43.190.178:49346|dito] <-> DownstreamBridge <-> [survival] has disconnected
+[14:20:55] [Netty Worker IO Thread #6/INFO]: [Elion|/95.104.29.101:49981] <-> ServerConnector [survival] has connected
+[14:20:55] [Netty Worker IO Thread #4/INFO]: [dito|/94.43.190.178:49346] <-> ServerConnector [survival] has connected
+[14:20:55] [Netty Worker IO Thread #6/INFO]: [StaffChat] Elion switched from lobby to survival
+[14:20:55] [Netty Worker IO Thread #6/INFO]: [/95.104.29.101:49981|Elion] <-> DownstreamBridge <-> [lobby] has disconnected
+[14:20:55] [Netty Worker IO Thread #4/INFO]: [StaffChat] dito switched from lobby to survival
+[14:20:55] [Netty Worker IO Thread #4/INFO]: [/94.43.190.178:49346|dito] <-> DownstreamBridge <-> [lobby] has disconnected
+[14:21:42] [Netty Worker IO Thread #0/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[14:23:13] [Netty Worker IO Thread #1/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[14:23:20] [Netty Worker IO Thread #2/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[14:27:34] [Netty Worker IO Thread #3/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[14:29:38] [Netty Worker IO Thread #4/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[14:32:39] [Netty Worker IO Thread #6/INFO]: [-] Elion
+[14:32:39] [Netty Worker IO Thread #6/INFO]: [/95.104.29.101:49981|Elion] -> UpstreamBridge has disconnected
+[14:32:39] [Netty Worker IO Thread #6/INFO]: [/95.104.29.101:49981|Elion] <-> DownstreamBridge <-> [survival] has disconnected
+[14:32:40] [Netty Worker IO Thread #5/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[14:32:43] [Netty Worker IO Thread #6/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[14:32:46] [Netty Worker IO Thread #4/INFO]: [-] dito
+[14:32:46] [Netty Worker IO Thread #4/INFO]: [/94.43.190.178:49346|dito] -> UpstreamBridge has disconnected
+[14:32:46] [Netty Worker IO Thread #4/INFO]: [/94.43.190.178:49346|dito] <-> DownstreamBridge <-> [survival] has disconnected
+[14:33:33] [Netty Worker IO Thread #7/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[14:39:51] [Netty Worker IO Thread #0/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[14:41:00] [Netty Worker IO Thread #1/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[14:43:03] [Netty Worker IO Thread #2/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[14:45:28] [Netty Worker IO Thread #3/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[14:47:30] [Netty Worker IO Thread #4/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[15:02:23] [Netty Worker IO Thread #5/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[15:03:37] [Netty Worker IO Thread #6/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[15:17:00] [Netty Worker IO Thread #7/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[15:17:29] [Netty Worker IO Thread #0/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[15:27:41] [Netty Worker IO Thread #1/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[15:28:03] [Netty Worker IO Thread #2/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[15:28:20] [Netty Worker IO Thread #3/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[15:33:16] [Netty Worker IO Thread #4/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[15:35:19] [Netty Worker IO Thread #5/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[15:37:04] [Netty Worker IO Thread #6/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[15:37:13] [Netty Worker IO Thread #7/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[15:52:06] [Netty Worker IO Thread #0/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[16:01:55] [Netty Worker IO Thread #1/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[16:03:27] [Netty Worker IO Thread #2/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[16:03:41] [Netty Worker IO Thread #3/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[16:03:56] [Netty Worker IO Thread #4/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[16:07:12] [Netty Worker IO Thread #5/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[16:20:53] [Netty Worker IO Thread #6/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[16:23:40] [SkinsRestorer Pool Thread #225/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+[16:23:40] [SkinsRestorer Pool Thread #225/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m
+[16:23:40] [SkinsRestorer Pool Thread #225/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |   SkinsRestorer  |[0;39m
+[16:23:40] [SkinsRestorer Pool Thread #225/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m
+[16:23:40] [SkinsRestorer Pool Thread #225/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+[16:23:40] [SkinsRestorer Pool Thread #225/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Current version: [31;1m14.2.10[0;39m
+[16:23:40] [SkinsRestorer Pool Thread #225/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    New version: [31;1m14.2.12[0;39m
+[16:23:40] [SkinsRestorer Pool Thread #225/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1m    A new version is available! Download it at:[0;39m
+[16:23:40] [SkinsRestorer Pool Thread #225/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1m    https://github.com/SkinsRestorer/SkinsRestorerX/releases/download/14.2.12/SkinsRestorer.jar[0;39m
+[16:23:40] [SkinsRestorer Pool Thread #225/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+[16:35:33] [Netty Worker IO Thread #7/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[16:42:12] [Netty Worker IO Thread #0/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[16:45:41] [Netty Worker IO Thread #1/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[16:48:10] [Netty Worker IO Thread #2/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[16:48:58] [Netty Worker IO Thread #3/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[16:50:46] [Netty Worker IO Thread #4/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[16:50:47] [Netty Worker IO Thread #5/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[16:51:03] [Netty Worker IO Thread #6/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[16:51:51] [Netty Worker IO Thread #7/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[16:52:24] [Netty Worker IO Thread #0/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[16:52:29] [Netty Worker IO Thread #1/INFO]: [/95.104.29.101:50295] <-> InitialHandler has connected
+[16:52:30] [Netty Worker IO Thread #1/INFO]: [Elion|/95.104.29.101:50295] <-> ServerConnector [lobby] has connected
+[16:52:30] [Netty Worker IO Thread #1/INFO]: [-] Elion
+[16:52:30] [Netty Worker IO Thread #1/INFO]: [/95.104.29.101:50295|Elion] -> UpstreamBridge has disconnected
+[16:52:30] [Netty Worker IO Thread #1/WARN]: No client connected for pending server!
+[16:52:30] [Netty Worker IO Thread #1/INFO]: [Elion|/95.104.29.101:50295] <-> ServerConnector [lobby] has disconnected
+[16:52:33] [UltraStaffChat Pool Thread #68/INFO]: [+] [Unknown] Elion
+[17:09:01] [Netty Worker IO Thread #2/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[17:09:54] [Netty Worker IO Thread #3/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[17:10:45] [Netty Worker IO Thread #4/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[17:14:00] [Netty Worker IO Thread #5/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[17:20:08] [Netty Worker IO Thread #6/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[17:22:57] [Netty Worker IO Thread #7/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[17:23:03] [Netty Worker IO Thread #0/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[17:24:08] [Netty Worker IO Thread #1/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[17:24:56] [Netty Worker IO Thread #2/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[17:26:16] [Netty Worker IO Thread #3/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[17:33:16] [Netty Worker IO Thread #4/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[17:42:12] [Netty Worker IO Thread #5/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[17:48:50] [Netty Worker IO Thread #6/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[17:53:05] [Netty Worker IO Thread #7/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[17:53:53] [Netty Worker IO Thread #0/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[17:58:53] [Netty Worker IO Thread #1/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[17:58:57] [Netty Worker IO Thread #2/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[18:03:57] [Netty Worker IO Thread #3/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[18:09:43] [Netty Worker IO Thread #5/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[18:10:04] [Netty Worker IO Thread #4/WARN]: [/51.15.70.79:61000] <-> InitialHandler - read timed out
+[18:13:40] [Netty Worker IO Thread #6/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[18:16:55] [Netty Worker IO Thread #7/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[18:19:41] [Netty Worker IO Thread #0/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[18:21:54] [Netty Worker IO Thread #1/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[18:24:03] [Netty Worker IO Thread #2/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[18:24:59] [Netty Worker IO Thread #3/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[18:26:12] [Netty Worker IO Thread #4/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[18:30:08] [Netty Worker IO Thread #5/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[18:31:08] [Netty Worker IO Thread #6/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[18:32:04] [Netty Worker IO Thread #7/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[18:37:30] [Netty Worker IO Thread #0/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[18:39:34] [Netty Worker IO Thread #1/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[18:39:45] [Netty Worker IO Thread #2/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[18:41:22] [Netty Worker IO Thread #3/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[18:42:40] [SkinsRestorer Pool Thread #228/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+[18:42:40] [SkinsRestorer Pool Thread #228/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m
+[18:42:40] [SkinsRestorer Pool Thread #228/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |   SkinsRestorer  |[0;39m
+[18:42:40] [SkinsRestorer Pool Thread #228/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m
+[18:42:40] [SkinsRestorer Pool Thread #228/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+[18:42:40] [SkinsRestorer Pool Thread #228/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Current version: [31;1m14.2.10[0;39m
+[18:42:40] [SkinsRestorer Pool Thread #228/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    New version: [31;1m14.2.12[0;39m
+[18:42:40] [SkinsRestorer Pool Thread #228/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1m    A new version is available! Download it at:[0;39m
+[18:42:40] [SkinsRestorer Pool Thread #228/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1m    https://github.com/SkinsRestorer/SkinsRestorerX/releases/download/14.2.12/SkinsRestorer.jar[0;39m
+[18:42:40] [SkinsRestorer Pool Thread #228/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+[18:44:45] [Netty Worker IO Thread #4/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[18:50:44] [Netty Worker IO Thread #5/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[18:53:16] [Netty Worker IO Thread #7/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[18:54:18] [Netty Worker IO Thread #0/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[18:55:48] [Netty Worker IO Thread #1/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[18:56:26] [Netty Worker IO Thread #2/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[19:05:10] [Netty Worker IO Thread #3/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[19:06:48] [Netty Worker IO Thread #4/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[19:07:34] [Netty Worker IO Thread #5/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[19:13:34] [Netty Worker IO Thread #6/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[19:14:06] [Netty Worker IO Thread #7/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[19:17:59] [Netty Worker IO Thread #0/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[19:20:54] [Netty Worker IO Thread #1/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[19:21:59] [Netty Worker IO Thread #2/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[19:23:27] [Netty Worker IO Thread #3/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[19:25:17] [Netty Worker IO Thread #4/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[19:26:57] [Netty Worker IO Thread #5/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[19:26:58] [Netty Worker IO Thread #6/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[19:29:01] [Netty Worker IO Thread #7/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[19:31:39] [Netty Worker IO Thread #0/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[19:32:07] [Netty Worker IO Thread #1/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[19:32:32] [Netty Worker IO Thread #2/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[19:37:36] [Netty Worker IO Thread #3/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[19:37:40] [Netty Worker IO Thread #4/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[19:40:13] [Netty Worker IO Thread #5/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[19:43:26] [Netty Worker IO Thread #6/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[19:45:34] [Netty Worker IO Thread #7/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[19:49:47] [Netty Worker IO Thread #0/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[19:51:05] [Netty Worker IO Thread #1/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[19:51:08] [Netty Worker IO Thread #2/INFO]: [/94.43.190.178:53567] <-> InitialHandler has connected
+[19:51:09] [Netty Worker IO Thread #2/INFO]: [dito|/94.43.190.178:53567] <-> ServerConnector [lobby] has connected
+[19:51:10] [Netty Worker IO Thread #2/WARN]: Plugin listener net.skinsrestorer.bungee.listeners.ConnectListener took 62ms to process event ServerConnectedEvent(player=dito, server=net.md_5.bungee.ServerConnection@5d7a559)!
+[19:51:12] [UltraStaffChat Pool Thread #69/INFO]: [+] [lobby] dito
+[19:51:20] [Netty Worker IO Thread #2/INFO]: [dito] disconnected with: Wrong password!
+[19:51:20] [Netty Worker IO Thread #2/INFO]: [-] dito
+[19:51:21] [Netty Worker IO Thread #2/WARN]: Plugin listener me.lucko.luckperms.lib.adventure.platform.bungeecord.BungeeAudiencesImpl$Listener took 50ms to process event PlayerDisconnectEvent(player=dito)!
+[19:51:21] [Netty Worker IO Thread #2/WARN]: Plugin listener dev.hypera.ultrastaffchat.adventure.platform.bungeecord.BungeeAudiencesImpl$Listener took 66ms to process event PlayerDisconnectEvent(player=dito)!
+[19:51:22] [Netty Worker IO Thread #2/WARN]: Event PlayerDisconnectEvent(player=dito) took 1,117ms to process!
+[19:51:22] [Netty Worker IO Thread #2/INFO]: [/94.43.190.178:53567|dito] -> UpstreamBridge has disconnected
+[19:51:22] [Netty Worker IO Thread #2/INFO]: [/94.43.190.178:53567|dito] <-> DownstreamBridge <-> [lobby] has disconnected
+[19:51:23] [Netty Worker IO Thread #3/INFO]: [/94.43.190.178:53590] <-> InitialHandler has connected
+[19:51:23] [Netty Worker IO Thread #3/WARN]: Plugin listener me.lucko.luckperms.lib.adventure.platform.bungeecord.BungeeAudiencesImpl$Listener took 103ms to process event PostLoginEvent(player=dito)!
+[19:51:24] [Netty Worker IO Thread #3/WARN]: Event PostLoginEvent(player=dito) took 537ms to process!
+[19:51:26] [Netty Worker IO Thread #3/WARN]: Plugin listener litebans.dR took 94ms to process event ServerConnectEvent(player=dito, target=BungeeServerInfo(name=lobby, socketAddress=localhost/127.0.0.1:25566, restricted=false), reason=JOIN_PROXY, request=net.md_5.bungee.api.ServerConnectRequest@545f61ff, cancelled=false)!
+[19:51:26] [Netty Worker IO Thread #3/WARN]: Event ServerConnectEvent(player=dito, target=BungeeServerInfo(name=lobby, socketAddress=localhost/127.0.0.1:25566, restricted=false), reason=JOIN_PROXY, request=net.md_5.bungee.api.ServerConnectRequest@545f61ff, cancelled=false) took 1,891ms to process!
+[19:51:26] [Netty Worker IO Thread #3/INFO]: [dito|/94.43.190.178:53590] <-> ServerConnector [lobby] has connected
+[19:51:27] [UltraStaffChat Pool Thread #69/INFO]: [+] [Unknown] dito
+[19:51:29] [Netty Worker IO Thread #3/WARN]: Plugin listener dev.hypera.ultrastaffchat.listeners.impl.SwitchListener took 142ms to process event ServerSwitchEvent(player=dito, from=null)!
+[19:51:29] [Netty Worker IO Thread #3/WARN]: Event ServerSwitchEvent(player=dito, from=null) took 685ms to process!
+[19:51:45] [Netty Worker IO Thread #3/WARN]: Plugin listener dev._2lstudios.chatsentinel.bungee.listeners.ServerConnectListener took 156ms to process event ServerConnectEvent(player=dito, target=BungeeServerInfo(name=survival, socketAddress=localhost/127.0.0.1:25568, restricted=false), reason=PLUGIN, request=net.md_5.bungee.api.ServerConnectRequest@2d30187, cancelled=false)!
+[19:51:45] [Netty Worker IO Thread #3/WARN]: Event ServerConnectEvent(player=dito, target=BungeeServerInfo(name=survival, socketAddress=localhost/127.0.0.1:25568, restricted=false), reason=PLUGIN, request=net.md_5.bungee.api.ServerConnectRequest@2d30187, cancelled=false) took 975ms to process!
+[19:51:45] [Netty Worker IO Thread #3/INFO]: [dito|/94.43.190.178:53590] <-> ServerConnector [survival] has connected
+[19:51:52] [LiteBans Pool Thread #912/WARN]: Plugin listener me.lucko.luckperms.bungee.listeners.BungeePermissionCheckListener took 129ms to process event PermissionCheckEvent(sender=dito, permission=litebans.admin, hasPermission=true)!
+[19:51:51] [Netty Worker IO Thread #3/INFO]: [-] dito
+[19:51:52] [Netty Worker IO Thread #4/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[19:51:57] [Netty Worker IO Thread #3/WARN]: Plugin listener dev.hypera.ultrastaffchat.listeners.impl.JoinLeaveListener took 2,408ms to process event PlayerDisconnectEvent(player=dito)!
+[19:52:07] [Netty Worker IO Thread #4/WARN]: Event ProxyPingEvent(connection=[/13.37.69.69:25565] <-> InitialHandler, response=ServerPing(version=ServerPing.Protocol(name=FlameCord 1.7.x-1.19.x, protocol=340), players=ServerPing.Players(max=200, online=1, sample=[ServerPing.PlayerInfo(name=dc.ultramc.online!, uniqueId=00000000-0000-0000-0000-000000000000)]), description=             ULTRAMC NETWORK [1.12 - 1.19]
+            Survival ➽ McMMO, Clans, Training!, modinfo=ServerPing.ModInfo(type=FML, modList=[]))) took 290ms to process!
+[19:52:09] [Netty Worker IO Thread #3/WARN]: Plugin listener me.lucko.luckperms.lib.adventure.platform.bungeecord.BungeeAudiencesImpl$Listener took 99ms to process event PlayerDisconnectEvent(player=dito)!
+[19:52:11] [LiteBans Pool Thread #912/WARN]: Event PermissionCheckEvent(sender=dito, permission=litebans.admin, hasPermission=true) took 3,726ms to process!
+[19:52:09] [Netty Worker IO Thread #6/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[19:52:09] [Netty Worker IO Thread #7/INFO]: [/94.43.190.178:53632] <-> InitialHandler has connected
+[19:52:09] [Netty Worker IO Thread #5/INFO]: [/94.43.190.178:53616] <-> InitialHandler has connected
+[19:52:14] [Netty Worker IO Thread #3/WARN]: Event PlayerDisconnectEvent(player=dito) took 19,676ms to process!
+[19:52:21] [Netty Worker IO Thread #7/WARN]: Plugin listener maintenance.MaintenanceTest took 1,203ms to process event PreLoginEvent(cancelled=false, cancelReasonComponents=null, connection=[/94.43.190.178:53632|dito] <-> InitialHandler)!
+[19:52:20] [Netty Worker IO Thread #1/INFO]: [/94.43.190.178:53656] <-> InitialHandler has connected
+[19:52:20] [Netty Worker IO Thread #0/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[19:52:20] [Netty Worker IO Thread #3/INFO]: [/94.43.190.178:53590|dito] -> UpstreamBridge has disconnected
+[19:52:22] [LiteBans Pool Thread #912/WARN]: Plugin listener me.lucko.luckperms.bungee.listeners.BungeePermissionCheckListener took 252ms to process event PermissionCheckEvent(sender=dito, permission=litebans.notify.warned.offline, hasPermission=true)!
+[19:52:22] [Netty Worker IO Thread #6/WARN]: Event ProxyPingEvent(connection=[/13.37.69.69:25565] <-> InitialHandler, response=ServerPing(version=ServerPing.Protocol(name=FlameCord 1.7.x-1.19.x, protocol=340), players=ServerPing.Players(max=200, online=1, sample=[ServerPing.PlayerInfo(name=dc.ultramc.online!, uniqueId=00000000-0000-0000-0000-000000000000)]), description=             ULTRAMC NETWORK [1.12 - 1.19]
+               Discord ➽ dc.ultramc.online!, modinfo=ServerPing.ModInfo(type=FML, modList=[]))) took 1,466ms to process!
+[19:52:22] [LiteBans Pool Thread #912/WARN]: Event PermissionCheckEvent(sender=dito, permission=litebans.notify.warned.offline, hasPermission=true) took 11,337ms to process!
+[19:52:22] [Netty Worker IO Thread #0/WARN]: Event ProxyPingEvent(connection=[/13.37.69.69:25565] <-> InitialHandler, response=ServerPing(version=ServerPing.Protocol(name=FlameCord 1.7.x-1.19.x, protocol=340), players=ServerPing.Players(max=200, online=0, sample=[ServerPing.PlayerInfo(name=dc.ultramc.online!, uniqueId=00000000-0000-0000-0000-000000000000)]), description=             ULTRAMC NETWORK [1.12 - 1.19]
+               Discord ➽ dc.ultramc.online!, modinfo=ServerPing.ModInfo(type=FML, modList=[]))) took 1,536ms to process!
+[19:52:22] [LuckPerms Pool Thread #230/WARN] [LuckPerms]: Processing login for dito took 2410ms.
+[19:52:22] [Netty Worker IO Thread #1/WARN]: Plugin listener me.lucko.luckperms.bungee.listeners.BungeeConnectionListener took 458ms to process event LoginEvent(cancelled=false, cancelReasonComponents=null, loginResult=null, connection=[/94.43.190.178:53656|dito] <-> InitialHandler)!
+[19:52:22] [Netty Worker IO Thread #3/INFO]: [/94.43.190.178:53590|dito] <-> DownstreamBridge <-> [lobby] has disconnected
+[19:52:22] [Netty Worker IO Thread #2/INFO]: [/13.37.69.69:25565] <-> InitialHandler has pinged
+[19:52:23] [Netty Worker IO Thread #7/WARN]: Plugin listener me.lucko.luckperms.bungee.listeners.BungeeConnectionListener took 1,397ms to process event LoginEvent(cancelled=false, cancelReasonComponents=null, loginResult=null, connection=[/94.43.190.178:53632|dito] <-> InitialHandler)!
+[19:52:23] [Netty Worker IO Thread #1/WARN]: Event LoginEvent(cancelled=false, cancelReasonComponents=null, loginResult=null, connection=[/94.43.190.178:53656|dito] <-> InitialHandler) took 2,965ms to process!
+[19:52:23] [Netty Worker IO Thread #1/WARN]: Event PreLoginEvent(cancelled=false, cancelReasonComponents=null, connection=[/94.43.190.178:53656|dito] <-> InitialHandler) took 2,977ms to process!
+[19:52:38] [Netty Worker IO Thread #3/WARN]: [dito|/94.43.190.178:53590] <-> ServerConnector [survival] - read timed out
+[19:52:43] [LuckPerms Pool Thread #232/WARN] [LuckPerms]: Processing login for dito took 19856ms.
+[19:52:50] [Netty Worker IO Thread #7/WARN]: Plugin listener net.skinsrestorer.bungee.listeners.LoginListener took 19,966ms to process event LoginEvent(cancelled=false, cancelReasonComponents=null, loginResult=null, connection=[/94.43.190.178:53632|dito] <-> InitialHandler)!
+[19:52:47] [Netty Worker IO Thread #3/INFO]: [dito|/94.43.190.178:53590] <-> ServerConnector [survival] has disconnected
+[19:52:59] [Netty Worker IO Thread #1/WARN]: Plugin listener me.lucko.luckperms.lib.adventure.platform.bungeecord.BungeeAudiencesImpl$Listener took 935ms to process event PostLoginEvent(player=dito)!
+[19:53:08] [Netty Worker IO Thread #7/WARN]: Event LoginEvent(cancelled=false, cancelReasonComponents=null, loginResult=null, connection=[/94.43.190.178:53632|dito] <-> InitialHandler) took 28,944ms to process!
+[19:53:12] [Netty Worker IO Thread #1/WARN]: Plugin listener dev.hypera.ultrastaffchat.adventure.platform.bungeecord.BungeeAudiencesImpl$Listener took 663ms to process event PostLoginEvent(player=dito)!
+[19:53:25] [Netty Worker IO Thread #7/WARN]: Event PreLoginEvent(cancelled=false, cancelReasonComponents=null, connection=[/94.43.190.178:53632|dito] <-> InitialHandler) took 58,568ms to process!
+[19:53:34] [Netty Worker IO Thread #1/WARN]: Plugin listener me.lucko.luckperms.bungee.listeners.BungeePermissionCheckListener took 973ms to process event PermissionCheckEvent(sender=dito, permission=staffchat.join, hasPermission=true)!
+[19:53:37] [Netty Worker IO Thread #7/WARN]: Plugin listener me.lucko.luckperms.lib.adventure.platform.bungeecord.BungeeAudiencesImpl$Listener took 1,442ms to process event PostLoginEvent(player=dito)!
+[19:53:41] [Netty Worker IO Thread #1/WARN]: Event PermissionCheckEvent(sender=dito, permission=staffchat.join, hasPermission=true) took 15,543ms to process!
+[19:53:49] [Netty Worker IO Thread #7/WARN]: Plugin listener dev.hypera.ultrastaffchat.adventure.platform.bungeecord.BungeeAudiencesImpl$Listener took 607ms to process event PostLoginEvent(player=dito)!
+[19:54:57] [Netty Worker IO Thread #1/WARN]: Plugin listener dev.hypera.ultrastaffchat.listeners.impl.JoinLeaveListener took 32,121ms to process event PostLoginEvent(player=dito)!
+[19:55:13] [UltraStaffChat Pool Thread #70/WARN]: Plugin listener me.lucko.luckperms.bungee.listeners.BungeePermissionCheckListener took 225ms to process event PermissionCheckEvent(sender=dito, permission=staffchat.join, hasPermission=true)!
+[19:55:15] [Netty Worker IO Thread #1/WARN]: Plugin listener fr.xephi.authmebungee.listeners.BungeePlayerListener took 70ms to process event PostLoginEvent(player=dito)!
+[19:55:16] [Netty Worker IO Thread #7/WARN]: Plugin listener me.lucko.luckperms.bungee.listeners.BungeePermissionCheckListener took 323ms to process event PermissionCheckEvent(sender=dito, permission=staffchat.join, hasPermission=true)!
+[19:55:18] [UltraStaffChat Pool Thread #70/WARN]: Event PermissionCheckEvent(sender=dito, permission=staffchat.join, hasPermission=true) took 72,909ms to process!
+[19:55:19] [Netty Worker IO Thread #1/WARN]: Plugin listener net.skinsrestorer.shadow.aikar.commands.ACFBungeeListener took 623ms to process event PostLoginEvent(player=dito)!
+[19:55:20] [Netty Worker IO Thread #7/WARN]: Event PermissionCheckEvent(sender=dito, permission=staffchat.join, hasPermission=true) took 78,440ms to process!
+[19:55:21] [UltraStaffChat Pool Thread #70/WARN]: Plugin listener me.lucko.luckperms.bungee.listeners.BungeePermissionCheckListener took 1,215ms to process event PermissionCheckEvent(sender=dito, permission=staffchat.join, hasPermission=true)!
+[19:55:22] [Netty Worker IO Thread #1/WARN]: Event PostLoginEvent(player=dito) took 151,034ms to process!
+[19:55:24] [UltraStaffChat Pool Thread #70/WARN]: Event PermissionCheckEvent(sender=dito, permission=staffchat.join, hasPermission=true) took 3,624ms to process!
+[19:55:25] [Netty Worker IO Thread #7/WARN]: Plugin listener dev.hypera.ultrastaffchat.listeners.impl.JoinLeaveListener took 91,796ms to process event PostLoginEvent(player=dito)!
+[19:55:27] [Netty Worker IO Thread #1/WARN]: Plugin listener dev._2lstudios.chatsentinel.bungee.listeners.ServerConnectListener took 237ms to process event ServerConnectEvent(player=dito, target=BungeeServerInfo(name=lobby, socketAddress=localhost/127.0.0.1:25566, restricted=false), reason=JOIN_PROXY, request=net.md_5.bungee.api.ServerConnectRequest@3eff01d4, cancelled=false)!
+[19:55:28] [Netty Worker IO Thread #7/WARN]: Event PostLoginEvent(player=dito) took 117,298ms to process!
+[19:55:27] [UltraStaffChat Pool Thread #71/INFO]: [+] [Unknown] dito
+[19:55:27] [UltraStaffChat Pool Thread #70/INFO]: [+] [Unknown] dito
+[19:55:31] [Netty Worker IO Thread #1/WARN]: Plugin listener litebans.dR took 1,170ms to process event ServerConnectEvent(player=dito, target=BungeeServerInfo(name=lobby, socketAddress=localhost/127.0.0.1:25566, restricted=false), reason=JOIN_PROXY, request=net.md_5.bungee.api.ServerConnectRequest@3eff01d4, cancelled=false)!
+[19:55:33] [Netty Worker IO Thread #7/WARN]: Plugin listener dev._2lstudios.chatsentinel.bungee.listeners.ServerConnectListener took 224ms to process event ServerConnectEvent(player=dito, target=BungeeServerInfo(name=lobby, socketAddress=localhost/127.0.0.1:25566, restricted=false), reason=JOIN_PROXY, request=net.md_5.bungee.api.ServerConnectRequest@47e3c859, cancelled=false)!
+[19:55:34] [Netty Worker IO Thread #1/WARN]: Event ServerConnectEvent(player=dito, target=BungeeServerInfo(name=lobby, socketAddress=localhost/127.0.0.1:25566, restricted=false), reason=JOIN_PROXY, request=net.md_5.bungee.api.ServerConnectRequest@3eff01d4, cancelled=false) took 8,798ms to process!
+[19:55:36] [LiteBans Pool Thread #913/WARN]: Plugin listener me.lucko.luckperms.bungee.listeners.BungeePermissionCheckListener took 808ms to process event PermissionCheckEvent(sender=dito, permission=litebans.admin, hasPermission=true)!
+[19:55:37] [Netty Worker IO Thread #7/WARN]: Plugin listener litebans.dR took 1,865ms to process event ServerConnectEvent(player=dito, target=BungeeServerInfo(name=lobby, socketAddress=localhost/127.0.0.1:25566, restricted=false), reason=JOIN_PROXY, request=net.md_5.bungee.api.ServerConnectRequest@47e3c859, cancelled=false)!
+[19:55:38] [LiteBans Pool Thread #913/WARN]: Event PermissionCheckEvent(sender=dito, permission=litebans.admin, hasPermission=true) took 3,691ms to process!
+[19:55:40] [Netty Worker IO Thread #7/WARN]: Event ServerConnectEvent(player=dito, target=BungeeServerInfo(name=lobby, socketAddress=localhost/127.0.0.1:25566, restricted=false), reason=JOIN_PROXY, request=net.md_5.bungee.api.ServerConnectRequest@47e3c859, cancelled=false) took 9,209ms to process!
+[19:55:42] [LiteBans Pool Thread #913/WARN]: Plugin listener me.lucko.luckperms.bungee.listeners.BungeePermissionCheckListener took 57ms to process event PermissionCheckEvent(sender=dito, permission=litebans.notify.warned.offline, hasPermission=true)!
+[19:55:46] [LiteBans Pool Thread #913/WARN]: Event PermissionCheckEvent(sender=dito, permission=litebans.notify.warned.offline, hasPermission=true) took 3,326ms to process!
+[19:55:48] [Netty Worker IO Thread #7/WARN]: Plugin listener me.lucko.luckperms.bungee.listeners.BungeePermissionCheckListener took 1,235ms to process event PermissionCheckEvent(sender=dito, permission=staffchat.leave, hasPermission=true)!
+[19:55:46] [Netty Worker IO Thread #1/INFO]: [-] dito
+[19:55:50] [Netty Worker IO Thread #1/WARN]: Plugin listener dev.hypera.ultrastaffchat.listeners.impl.JoinLeaveListener took 4,461ms to process event PlayerDisconnectEvent(player=dito)!
+[19:55:54] [Netty Worker IO Thread #7/WARN]: Event PermissionCheckEvent(sender=dito, permission=staffchat.leave, hasPermission=true) took 5,736ms to process!
+[19:55:59] [Netty Worker IO Thread #1/WARN]: Plugin listener litebans.fu took 205ms to process event PlayerDisconnectEvent(player=dito)!
+[19:56:04] [Netty Worker IO Thread #7/INFO]: [-] dito
+[19:56:22] [Netty Worker IO Thread #7/WARN]: Plugin listener dev.hypera.ultrastaffchat.listeners.impl.JoinLeaveListener took 23,047ms to process event PlayerDisconnectEvent(player=dito)!
+[19:56:37] [Netty Worker IO Thread #1/WARN]: Plugin listener me.lucko.luckperms.bungee.listeners.BungeeConnectionListener took 9,763ms to process event PlayerDisconnectEvent(player=dito)!
+[19:56:53] [Netty Worker IO Thread #7/WARN]: Plugin listener fr.xephi.authmebungee.listeners.BungeePlayerListener took 57ms to process event PlayerDisconnectEvent(player=dito)!
+[19:57:06] [Netty Worker IO Thread #1/WARN]: Plugin listener me.lucko.luckperms.lib.adventure.platform.bungeecord.BungeeAudiencesImpl$Listener took 2,516ms to process event PlayerDisconnectEvent(player=dito)!
+[19:57:24] [Netty Worker IO Thread #7/WARN]: Plugin listener net.skinsrestorer.shadow.aikar.commands.ACFBungeeListener took 69ms to process event PlayerDisconnectEvent(player=dito)!
+[19:57:51] [Netty Worker IO Thread #1/WARN]: Plugin listener dev.hypera.ultrastaffchat.adventure.platform.bungeecord.BungeeAudiencesImpl$Listener took 2,658ms to process event PlayerDisconnectEvent(player=dito)!
+[19:58:02] [Netty Worker IO Thread #7/WARN]: Plugin listener litebans.fu took 586ms to process event PlayerDisconnectEvent(player=dito)!
+[19:58:14] [Netty Worker IO Thread #1/WARN]: Event PlayerDisconnectEvent(player=dito) took 129,119ms to process!
+[19:58:16] [Netty Worker IO Thread #1/INFO]: [/94.43.190.178:53656|dito] -> UpstreamBridge has disconnected
+[19:59:02] [Netty Worker IO Thread #7/WARN]: Plugin listener me.lucko.luckperms.bungee.listeners.BungeeConnectionListener took 24,241ms to process event PlayerDisconnectEvent(player=dito)!
+[19:59:22] [Netty Worker IO Thread #7/WARN]: Plugin listener me.lucko.luckperms.lib.adventure.platform.bungeecord.BungeeAudiencesImpl$Listener took 1,931ms to process event PlayerDisconnectEvent(player=dito)!
+[19:59:38] [Netty Worker IO Thread #7/WARN]: Plugin listener dev.hypera.ultrastaffchat.adventure.platform.bungeecord.BungeeAudiencesImpl$Listener took 2,643ms to process event PlayerDisconnectEvent(player=dito)!
+[19:59:33] [Netty Worker IO Thread #1/INFO]: [dito|/94.43.190.178:53656] <-> ServerConnector [lobby] has connected
+[19:59:38] [Netty Worker IO Thread #1/WARN]: [dito|/94.43.190.178:53656] <-> ServerConnector [lobby] - read timed out
